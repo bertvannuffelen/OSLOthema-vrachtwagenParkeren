@@ -1,4 +1,24 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Felipe;Garcia Del Pino;IGEMO;felipe.garciadelpino@igemo.be;https://www.igemo.be/;A
+Pieter;Dresselaers;IGEMO;pieter.dresselaers@igemo.be;https://www.igemo.be/;A
+Emmi;Suvaal;IGEMO;emmi.suvaal@igemo.be;https://www.igemo.be/;A
+Lorenzo;Vylders;Digitaal Vlaanderen;lorenzo.vylders@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Jef;Liekens;Digitaal Vlaanderen;jef.liekens@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Raf;Buyle;Digitaal Vlaanderen;raf.buyle@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Veerle;Beyaert;Digitaal Vlaanderen;veerle.beyaert@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Eveline;Vlassenroot;Digitaal Vlaanderen;eveline.vlassenroot@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Liesbeth;Van der Haegen;Digitaal Vlaanderen;liesbeth.vanderhaegen@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Laurens;Vercauteren;Digitaal Vlaanderen;laurens.vercauteren@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+
+Isabelle;De Maegt;FEBETRA;     mail   ;https://www.febetra.be;C
+Marc;Bax;Greenyard;     mail   ;https://www.greenyard.group;C
+Dries;Meers;Stad Gent;     mail   ;https://www.stad.gent;C
+Benjamin;Vermeulen;Stad Mechelen;     mail   ;https://www.mechelen.be;C
+Gwynne;van Kaauwen;Tractebel;     mail   ;https://www.tractebel-engie.be;C
+Frederic;Keymeulen;Transport en Logistiek Vlaanderen;     mail   ;https://www.tlv.be/nl;C
+Chris;Delcroix;DBT;     mail   ;https://www.dbt-logistics.com;C
+Sven;Maerivoet;Transport & Mobility Leuven;   mail   ;https://www.tmleuven.be/en;C
+Alain;Glickman;VLOCA;     mail   ;https://www.vloca.vlaanderen.be;C
+Mieke;Van Cauwenberghe;VLOCA;     mail   ;https://www.vloca.vlaanderen.be;C
+Laurien;Renders;VLOCA;Gert;Bellekens;Intrabel;     mail   ;https://www.vloca.vlaanderen.be;C
+Gert;Bellekens;Intrabel;     mail   ;https://www.intrabel.be;C
